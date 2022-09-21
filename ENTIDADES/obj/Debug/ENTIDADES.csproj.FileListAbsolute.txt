@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\Cine\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\Administrador\Desktop\Cine\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\Administrador\Desktop\Cine\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Cine\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\Administrador\Desktop\Cine\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\ENTIDADES\obj\Debug\ENTIDADES.csprojAssemblyReference.cache
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\ENTIDADES\obj\Debug\ENTIDADES.pdb

@@ -1,0 +1,26 @@
+C:\Users\Administrador\Desktop\Cine\DAO\bin\Debug\DAO.dll
+C:\Users\Administrador\Desktop\Cine\DAO\bin\Debug\DAO.pdb
+C:\Users\Administrador\Desktop\Cine\DAO\bin\Debug\ENTIDADES.dll
+C:\Users\Administrador\Desktop\Cine\DAO\bin\Debug\ENTIDADES.pdb
+C:\Users\Administrador\Desktop\Cine\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Cine\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Cine\DAO\obj\Debug\DAO.dll
+C:\Users\Administrador\Desktop\Cine\DAO\obj\Debug\DAO.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\DAO\bin\Debug\DAO.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\DAO\bin\Debug\DAO.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\DAO\bin\Debug\ENTIDADES.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\DAO\bin\Debug\ENTIDADES.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\DAO\obj\Debug\DAO.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\DAO\obj\Debug\DAO.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\DAO\bin\Debug\DAO.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\DAO\bin\Debug\DAO.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\DAO\bin\Debug\ENTIDADES.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\DAO\bin\Debug\ENTIDADES.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Fran\Desktop\Proyecto---Cine-master\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\Proyecto---Cine-master\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Fran\Desktop\Proyecto---Cine-master\DAO\obj\Debug\DAO.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\DAO\obj\Debug\DAO.pdb

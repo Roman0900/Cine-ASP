@@ -1,0 +1,47 @@
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\obj\Debug\PRESENTACION.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\PRESENTACION.dll.config
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\PRESENTACION.dll
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\PRESENTACION.pdb
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\ENTIDADES.dll
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\NEGOCIO.dll
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\DAO.dll
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\ENTIDADES.pdb
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\NEGOCIO.pdb
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\bin\DAO.pdb
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\obj\Debug\PRESENTACION.dll
+C:\Users\Administrador\Desktop\Cine\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\PRESENTACION.dll.config
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\PRESENTACION.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\PRESENTACION.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\ENTIDADES.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\NEGOCIO.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\DAO.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\ENTIDADES.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\NEGOCIO.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\bin\DAO.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\obj\Debug\PRESENTACION.csprojAssemblyReference.cache
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\obj\Debug\PRESENTACION.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\PRESENTACION.dll.config
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\PRESENTACION.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\PRESENTACION.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\ENTIDADES.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\NEGOCIO.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\DAO.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\ENTIDADES.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\NEGOCIO.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\bin\DAO.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\obj\Debug\PRESENTACION.csprojAssemblyReference.cache
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\obj\Debug\PRESENTACION.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\PRESENTACION\obj\Debug\PRESENTACION.pdb

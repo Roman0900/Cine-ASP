@@ -1,0 +1,32 @@
+C:\Users\Administrador\Desktop\Cine\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Administrador\Desktop\Cine\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Administrador\Desktop\Cine\NEGOCIO\bin\Debug\DAO.dll
+C:\Users\Administrador\Desktop\Cine\NEGOCIO\bin\Debug\ENTIDADES.dll
+C:\Users\Administrador\Desktop\Cine\NEGOCIO\bin\Debug\DAO.pdb
+C:\Users\Administrador\Desktop\Cine\NEGOCIO\bin\Debug\ENTIDADES.pdb
+C:\Users\Administrador\Desktop\Cine\NEGOCIO\obj\Debug\NEGOCIO.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Cine\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Cine\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Administrador\Desktop\Cine\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\bin\Debug\DAO.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\bin\Debug\ENTIDADES.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\bin\Debug\DAO.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\bin\Debug\ENTIDADES.pdb
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Friki\Documents\UTN\Cuatri 3\A ENTREGAR (el orto)\Proyecto - Cine\Proyecto---Cine\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\bin\Debug\DAO.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\bin\Debug\ENTIDADES.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\bin\Debug\DAO.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\bin\Debug\ENTIDADES.pdb
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Fran\Desktop\Proyecto---Cine-master\NEGOCIO\obj\Debug\NEGOCIO.pdb
